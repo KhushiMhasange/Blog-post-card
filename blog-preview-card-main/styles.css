@@ -39,7 +39,14 @@ img{
     margin-left: 10px;
     font-weight: 800;
 }
-
+.content a{
+    color: hsl(0, 0%, 7%);
+    font-size: larger;
+    text-decoration: none;
+}
+a:hover{
+   color: hsl(47, 88%, 63%);
+}
 .tag{
     padding: 6px;
     margin-top: 20px;
